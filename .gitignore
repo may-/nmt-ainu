@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+
+#data/ainu-en-ja
+!data/ainu-en-ja/xml/
+!data/ainu-en-ja/preprocess.ipynb
+data/ainu-en-ja/.ipynb_checkpoints
+#data/en-ja
+
+scripts/nonbreaking_prefixes
+scripts/tokenizer.pl
+
+train/
